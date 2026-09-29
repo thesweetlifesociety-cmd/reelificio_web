@@ -30,6 +30,24 @@
       "followersMonthly": "organic followers per month"
     }
   },
+  "clients": {
+    "eyebrow": "They chose our communities",
+    "title": "Brands that work with us.",
+    "subtitle": "Native integrations inside our pages: characters the community already loves deliver the brand's message, in the same voice as always.",
+    "collab": "@fluffy.revolution",
+    "cta": "Watch the reel",
+    "metrics": {
+      "views": "views",
+      "likes": "likes",
+      "comments": "comments"
+    },
+    "items": {
+      "veronesi": {"topic": "Prevention · Alcohol and dehydration"},
+      "enterogermina": {"topic": "Wellness · Bloating"},
+      "cuki": {"topic": "Food · Storage and anti-waste"},
+      "virginActive": {"topic": "Fitness · World Heart Day"}
+    }
+  },
   "twoPaths": {
     "title": "Two ways to work with us.",
     "subtitle": "Step inside our viral formats or build your own. Either way, our studio works for your brand.",

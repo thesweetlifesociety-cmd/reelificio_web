@@ -7,7 +7,7 @@ export async function TwoPaths() {
 
   return (
     <section className="bg-paper">
-      <div className="mx-auto max-w-7xl px-4 py-20 md:px-8 md:py-28">
+      <div className="mx-auto max-w-7xl px-4 pt-10 pb-20 md:px-8 md:pt-14 md:pb-28">
         <Reveal>
           <h2 className="max-w-3xl font-display text-[clamp(1.8rem,4vw,3.2rem)] leading-tight uppercase">
             {t('title')}

@@ -30,6 +30,24 @@
       "followersMonthly": "followers organici al mese"
     }
   },
+  "clients": {
+    "eyebrow": "Hanno scelto le nostre community",
+    "title": "I brand che lavorano con noi.",
+    "subtitle": "Integrazioni native dentro le nostre pagine: i personaggi che la community già ama raccontano il messaggio del brand, con la stessa voce di sempre.",
+    "collab": "@fluffy.revolution",
+    "cta": "Guarda il reel",
+    "metrics": {
+      "views": "view",
+      "likes": "like",
+      "comments": "commenti"
+    },
+    "items": {
+      "veronesi": {"topic": "Prevenzione · Alcol e disidratazione"},
+      "enterogermina": {"topic": "Benessere · Gonfiore addominale"},
+      "cuki": {"topic": "Food · Conservazione e anti-spreco"},
+      "virginActive": {"topic": "Fitness · Giornata Mondiale del Cuore"}
+    }
+  },
   "twoPaths": {
     "title": "Due modi per lavorare con noi.",
     "subtitle": "Entra nei nostri format già virali oppure costruisci il tuo. In entrambi i casi, mettiamo il nostro studio al servizio del tuo brand.",
