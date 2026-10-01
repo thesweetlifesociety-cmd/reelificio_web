@@ -19,6 +19,7 @@ const clients: Client[] = [
     brand: 'Fondazione Umberto Veronesi',
     reelUrl: 'https://www.instagram.com/reel/DbS_jOqRdGK/',
     media: 'veronesi',
+    views: 250000,
     likes: 7630,
     comments: 218
   },
@@ -27,6 +28,7 @@ const clients: Client[] = [
     brand: 'Enterogermina',
     reelUrl: 'https://www.instagram.com/reel/DdBvaNHN2xU/',
     media: 'enterogermina',
+    views: 240000,
     likes: 2287,
     comments: 34
   },
@@ -35,6 +37,7 @@ const clients: Client[] = [
     brand: 'Cuki',
     reelUrl: 'https://www.instagram.com/reel/Ddq9Cm1NwKK/',
     media: 'cuki',
+    views: 80000,
     likes: 2812,
     comments: 40
   },
@@ -43,6 +46,7 @@ const clients: Client[] = [
     brand: 'Virgin Active',
     reelUrl: 'https://www.instagram.com/reel/Dd30fq4OYWh/',
     media: 'virgin-active',
+    views: 20000,
     likes: 374,
     comments: 5
   }
