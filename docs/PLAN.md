@@ -1,7 +1,7 @@
 # Reelificio.com — Implementation Plan & Status
 
 > **Last updated:** 2026-05-26
-> **Repo:** [github.com/gigiorda84/reelificio_web](https://github.com/gigiorda84/reelificio_web)
+> **Repo:** [github.com/thesweetlifesociety-cmd/reelificio_web](https://github.com/thesweetlifesociety-cmd/reelificio_web)
 > **Production URL (target):** https://www.reelificio.com
 
 This document is the single source of truth for picking up development of the
@@ -227,7 +227,7 @@ is unset, so dev works without it.
 
 ## 7. Deploy (Vercel)
 
-1. Create a new Vercel project from this repo (gigiorda84/reelificio_web).
+1. Create a new Vercel project from this repo (thesweetlifesociety-cmd/reelificio_web).
 2. **Set production region to `fra1`** (Frankfurt) for EU latency / GDPR posture.
 3. Add the env vars from §6.
 4. Connect domain `www.reelificio.com` (and apex `reelificio.com` → 308 redirect to www).
@@ -271,7 +271,7 @@ Not committed. Listed here so they're not forgotten:
 
 ```bash
 # 1. Clone
-git clone git@github.com:gigiorda84/reelificio_web.git
+git clone git@github.com:thesweetlifesociety-cmd/reelificio_web.git
 cd reelificio_web
 
 # 2. Read these three files, in this order
